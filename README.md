@@ -1,2 +1,3 @@
 # Debika
-This is my first gitrepository
+This is my first Git repository
+Author-misti
